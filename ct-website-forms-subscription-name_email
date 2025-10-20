@@ -1,0 +1,19 @@
+<iframe
+    src="https://api.leadconnectorhq.com/widget/form/ToEjUXYBdqDOIBiuxiqd"
+    style="width:100%;height:100%;border:none;border-radius:3px"
+    id="inline-ToEjUXYBdqDOIBiuxiqd" 
+    data-layout="{'id':'INLINE'}"
+    data-trigger-type="alwaysShow"
+    data-trigger-value=""
+    data-activation-type="alwaysActivated"
+    data-activation-value=""
+    data-deactivation-type="neverDeactivate"
+    data-deactivation-value=""
+    data-form-name="Newsletter Subscription Form (Name, Email)"
+    data-height="402"
+    data-layout-iframe-id="inline-ToEjUXYBdqDOIBiuxiqd"
+    data-form-id="ToEjUXYBdqDOIBiuxiqd"
+    title="Newsletter Subscription Form (Name, Email)"
+        >
+</iframe>
+<script src="https://link.msgsndr.com/js/form_embed.js"></script>
